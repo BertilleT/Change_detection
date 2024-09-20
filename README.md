@@ -19,4 +19,4 @@ Data:
 
 - `split_HRSCD_train_valid_test.py`: Script for splitting the HRSCD dataset into training, validation, and test sets, ensuring a balanced distribution.
 
-- `unet.py`: The U-Net architecture, a foundational model for semantic segmentation tasks in satellite image analysis.
+- `unet.py`: The U-Net architecture for semantic segmentation tasks in satellite image analysis.
